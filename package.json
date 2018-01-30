@@ -1,0 +1,19 @@
+{
+  "name": "comp308-w2018-lession2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/300872772/COMP308-W2018-Lession2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/300872772/COMP308-W2018-Lession2/issues"
+  },
+  "homepage": "https://github.com/300872772/COMP308-W2018-Lession2#readme"
+}
