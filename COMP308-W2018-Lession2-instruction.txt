@@ -1,0 +1,39 @@
+Initialize package:
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ npm init
+
+Git setup:
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ git init
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ git add .
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ git commit -m "first commit"
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$git remote add origin https://github.com/300872772/COMP308-W2018-Lession2.git
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$git push -u origin master
+
+Install Express:
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ npm install express --save
+
+Type Script setup:
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ npm install @types/node --save-dev
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ npm install @types/expree --save-dev
+
+Express helloWorld Example:
+http://expressjs.com/en/starter/hello-world.html
+
+Setup Nodemon:
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ sudo npm install nodemon -g
+
+Setup Express Generator:
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ sudo npm install express-generator -g
+
+Setup Express Folder Structure:
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ express -e
+press y
+
+Setup Dependencies :
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ cd . && npm install
+
+Type Script setup again:
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ npm install @types/node --save-dev
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ npm install @types/expree --save-dev
+
+Setup NMP once again for dependency:
+Mamuns-MacBook-Pro:COMP308-W2018-Lession2 kamrulislam$ npm install
